@@ -12,117 +12,55 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ralia =====
-[1]Ralia       |09:44:46 | 22-10-2026| login OK @raliasilviani | score=1650 rank=4397
-[1]Ralia       |09:44:46 | 22-10-2026| serverTime=2026-10-22T09:44:46.000Z local=2026-10-22T09:44:46.340Z
+[1]Ralia       |09:40:42 | 23-10-2026| login OK @raliasilviani | score=1790 rank=4123
+[1]Ralia       |09:40:42 | 23-10-2026| serverTime=2026-10-23T09:40:42.000Z local=2026-10-23T09:40:42.954Z
 --> [1]Ralia menjalankan: Claim Daily
-[1]Ralia       |09:44:47 | 22-10-2026| daily: OK +10 poin score=1660
---> [1]Ralia menjalankan: Auto All Tasks (13 pending)
-[1]Ralia       |09:44:49 | 22-10-2026| [1/13] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204403469445979
-[1]Ralia       |09:44:49 | 22-10-2026| delay 10s...
-[1]Ralia       |09:45:01 | 22-10-2026| [2/13] 1d9e1a73 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204482254520549
-[1]Ralia       |09:45:01 | 22-10-2026| delay 10s...
-[1]Ralia       |09:45:13 | 22-10-2026| [3/13] 2f4c6b39 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204680488742020
-[1]Ralia       |09:45:13 | 22-10-2026| delay 10s...
-[1]Ralia       |09:45:25 | 22-10-2026| [4/13] 4dabfbcd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204554136191577
-[1]Ralia       |09:45:25 | 22-10-2026| delay 10s...
-[1]Ralia       |09:45:37 | 22-10-2026| [5/13] ada86142 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204547143263223
-[1]Ralia       |09:45:37 | 22-10-2026| delay 10s...
-[1]Ralia       |09:45:50 | 22-10-2026| [6/13] 67a9776a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204664890608665
-[1]Ralia       |09:45:50 | 22-10-2026| delay 10s...
-[1]Ralia       |09:46:03 | 22-10-2026| [7/13] e90ce04d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204946675666809
-[1]Ralia       |09:46:03 | 22-10-2026| delay 10s...
-[1]Ralia       |09:46:15 | 22-10-2026| [8/13] 06ee5b2a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204892951682596
-[1]Ralia       |09:46:15 | 22-10-2026| delay 10s...
-[1]Ralia       |09:46:27 | 22-10-2026| [9/13] a3b32468 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204863299469160
-[1]Ralia       |09:46:27 | 22-10-2026| delay 10s...
-[1]Ralia       |09:46:39 | 22-10-2026| [10/13] cf4945ad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204811456777762
-[1]Ralia       |09:46:39 | 22-10-2026| delay 10s...
-[1]Ralia       |09:46:51 | 22-10-2026| [11/13] 05c835bd (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113205016241827490
-[1]Ralia       |09:46:51 | 22-10-2026| delay 10s...
-[1]Ralia       |09:47:02 | 22-10-2026| [12/13] 8a108d4b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054 | proof=https://x.com/raliasilviani/status/2113204889705172776
-[1]Ralia       |09:47:02 | 22-10-2026| delay 10s...
-[1]Ralia       |09:47:15 | 22-10-2026| [13/13] bd8c2f19 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211311699409054
-[1]Ralia       |09:47:15 | 22-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ralia       |09:47:16 | 22-10-2026| [1/1] 7c25d003 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"7c25d003-1df3-4dd2-9391-9703bc6c648d","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113116994090545 | proof=https://x.com/raliasilviani/status/2113205061339738475
+[1]Ralia       |09:40:43 | 23-10-2026| daily: OK +10 poin score=1800
+--> [1]Ralia menjalankan: Auto All Tasks (7 pending)
+[1]Ralia       |09:40:45 | 23-10-2026| [1/7] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/raliasilviani/status/2113565831363325365
+[1]Ralia       |09:40:45 | 23-10-2026| delay 10s...
+[1]Ralia       |09:40:57 | 23-10-2026| [2/7] 8598d58b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/raliasilviani/status/2113565948233183673
+[1]Ralia       |09:40:57 | 23-10-2026| delay 10s...
+[1]Ralia       |09:41:09 | 23-10-2026| [3/7] 55d1cc44 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709
+[1]Ralia       |09:41:09 | 23-10-2026| delay 10s...
+[1]Ralia       |09:41:21 | 23-10-2026| [4/7] 007fb4bc (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/raliasilviani/status/2113565803914216551
+[1]Ralia       |09:41:21 | 23-10-2026| delay 10s...
+[1]Ralia       |09:41:33 | 23-10-2026| [5/7] cd349eb5 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/raliasilviani/status/2113566092391126971
+[1]Ralia       |09:41:33 | 23-10-2026| delay 10s...
+[1]Ralia       |09:41:44 | 23-10-2026| [6/7] 2669d576 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/raliasilviani/status/2113565990956489457
+[1]Ralia       |09:41:44 | 23-10-2026| delay 10s...
+[1]Ralia       |09:41:56 | 23-10-2026| [7/7] 352bca6d (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211327781085709 | proof=https://x.com/raliasilviani/status/2113566069976321123
+[1]Ralia       |09:41:56 | 23-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ralia       |09:41:58 | 23-10-2026| [1/1] b1de7845 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"b1de7845-df09-4525-aa76-e3728688dfa6","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2113277810857099 | proof=https://x.com/raliasilviani/status/2113566216298773424
 --> [1]Ralia menjalankan: Watch Anime
-[1]Ralia       |09:47:17 | 22-10-2026| watch: 2 video belum completed: oshi-rainbow-lighthouse,bakeru-ikesou-jan-mv
-[1]Ralia       |09:47:17 | 22-10-2026| watch [1/2] farming oshi-rainbow-lighthouse...
-[1]Ralia       |09:47:18 | 22-10-2026| watch oshi-rainbow-lighthouse: 0% (0.00/87.00s)
-[1]Ralia       |09:47:25 | 22-10-2026| watch oshi-rainbow-lighthouse: 5% (5.13/87.00s)
-[1]Ralia       |09:47:31 | 22-10-2026| watch oshi-rainbow-lighthouse: 12% (10.93/87.00s)
-[1]Ralia       |09:47:37 | 22-10-2026| watch oshi-rainbow-lighthouse: 18% (16.37/87.00s)
-[1]Ralia       |09:47:43 | 22-10-2026| watch oshi-rainbow-lighthouse: 25% (21.79/87.00s)
-[1]Ralia       |09:47:49 | 22-10-2026| watch oshi-rainbow-lighthouse: 31% (27.41/87.00s)
-[1]Ralia       |09:47:55 | 22-10-2026| watch oshi-rainbow-lighthouse: 37% (32.77/87.00s)
-[1]Ralia       |09:48:01 | 22-10-2026| watch oshi-rainbow-lighthouse: 43% (38.21/87.00s)
-[1]Ralia       |09:48:07 | 22-10-2026| watch oshi-rainbow-lighthouse: 50% (43.54/87.00s)
-[1]Ralia       |09:48:13 | 22-10-2026| watch oshi-rainbow-lighthouse: 56% (48.95/87.00s)
-[1]Ralia       |09:48:19 | 22-10-2026| watch oshi-rainbow-lighthouse: 62% (54.26/87.00s)
-[1]Ralia       |09:48:25 | 22-10-2026| watch oshi-rainbow-lighthouse: 68% (59.60/87.00s)
-[1]Ralia       |09:48:31 | 22-10-2026| watch oshi-rainbow-lighthouse: 74% (64.97/87.00s)
-[1]Ralia       |09:48:37 | 22-10-2026| watch oshi-rainbow-lighthouse: 80% (70.29/87.00s)
-[1]Ralia       |09:48:43 | 22-10-2026| watch oshi-rainbow-lighthouse: 86% (75.60/87.00s)
-[1]Ralia       |09:48:49 | 22-10-2026| watch oshi-rainbow-lighthouse: 93% (81.06/87.00s)
-[1]Ralia       |09:48:49 | 22-10-2026| watch oshi-rainbow-lighthouse: COMPLETED (81.06/87.00s)
-[1]Ralia       |09:48:54 | 22-10-2026| watch [2/2] farming bakeru-ikesou-jan-mv...
-[1]Ralia       |09:48:55 | 22-10-2026| watch bakeru-ikesou-jan-mv: 0% (0.00/181.00s)
-[1]Ralia       |09:49:01 | 22-10-2026| watch bakeru-ikesou-jan-mv: 2% (5.08/181.00s)
-[1]Ralia       |09:49:11 | 22-10-2026| watch bakeru-ikesou-jan-mv: 5% (10.74/181.00s)
-[1]Ralia       |09:49:17 | 22-10-2026| watch bakeru-ikesou-jan-mv: 9% (17.37/181.00s)
-[1]Ralia       |09:49:23 | 22-10-2026| watch bakeru-ikesou-jan-mv: 12% (23.40/181.00s)
-[1]Ralia       |09:49:30 | 22-10-2026| watch bakeru-ikesou-jan-mv: 16% (30.00/181.00s)
-[1]Ralia       |09:49:35 | 22-10-2026| watch bakeru-ikesou-jan-mv: 19% (35.87/181.00s)
-[1]Ralia       |09:49:41 | 22-10-2026| watch bakeru-ikesou-jan-mv: 22% (41.33/181.00s)
-[1]Ralia       |09:49:47 | 22-10-2026| watch bakeru-ikesou-jan-mv: 25% (46.68/181.00s)
-[1]Ralia       |09:49:54 | 22-10-2026| watch bakeru-ikesou-jan-mv: 28% (51.97/181.00s)
-[1]Ralia       |09:50:00 | 22-10-2026| watch bakeru-ikesou-jan-mv: 31% (57.63/181.00s)
-[1]Ralia       |09:50:06 | 22-10-2026| watch bakeru-ikesou-jan-mv: 34% (63.09/181.00s)
-[1]Ralia       |09:50:11 | 22-10-2026| watch bakeru-ikesou-jan-mv: 37% (68.43/181.00s)
-[1]Ralia       |09:50:18 | 22-10-2026| watch bakeru-ikesou-jan-mv: 40% (73.80/181.00s)
-[1]Ralia       |09:50:24 | 22-10-2026| watch bakeru-ikesou-jan-mv: 43% (79.36/181.00s)
-[1]Ralia       |09:50:30 | 22-10-2026| watch bakeru-ikesou-jan-mv: 46% (84.68/181.00s)
-[1]Ralia       |09:50:36 | 22-10-2026| watch bakeru-ikesou-jan-mv: 49% (90.41/181.00s)
-[1]Ralia       |09:50:43 | 22-10-2026| watch bakeru-ikesou-jan-mv: 52% (95.74/181.00s)
-[1]Ralia       |09:50:49 | 22-10-2026| watch bakeru-ikesou-jan-mv: 56% (101.83/181.00s)
-[1]Ralia       |09:50:55 | 22-10-2026| watch bakeru-ikesou-jan-mv: 59% (107.76/181.00s)
-[1]Ralia       |09:51:01 | 22-10-2026| watch bakeru-ikesou-jan-mv: 62% (113.30/181.00s)
-[1]Ralia       |09:51:08 | 22-10-2026| watch bakeru-ikesou-jan-mv: 65% (118.74/181.00s)
-[1]Ralia       |09:51:14 | 22-10-2026| watch bakeru-ikesou-jan-mv: 68% (124.49/181.00s)
-[1]Ralia       |09:51:20 | 22-10-2026| watch bakeru-ikesou-jan-mv: 71% (130.11/181.00s)
-[1]Ralia       |09:51:26 | 22-10-2026| watch bakeru-ikesou-jan-mv: 74% (135.46/181.00s)
-[1]Ralia       |09:51:33 | 22-10-2026| watch bakeru-ikesou-jan-mv: 77% (140.88/181.00s)
-[1]Ralia       |09:51:39 | 22-10-2026| watch bakeru-ikesou-jan-mv: 81% (146.76/181.00s)
-[1]Ralia       |09:51:45 | 22-10-2026| watch bakeru-ikesou-jan-mv: 84% (152.29/181.00s)
-[1]Ralia       |09:51:51 | 22-10-2026| watch bakeru-ikesou-jan-mv: 87% (157.58/181.00s)
-[1]Ralia       |09:51:58 | 22-10-2026| watch bakeru-ikesou-jan-mv: 90% (163.19/181.00s)
-[1]Ralia       |09:51:58 | 22-10-2026| watch bakeru-ikesou-jan-mv: COMPLETED (163.19/181.00s)
+[1]Ralia       |09:41:59 | 23-10-2026| watch: semua video sudah completed
 --> [1]Ralia menjalankan: Read Article
-[1]Ralia       |09:51:59 | 22-10-2026| news: 27/27 artikel selesai dibaca
-[1]Ralia       |09:52:00 | 22-10-2026| mint eligibility: {"userId":"1715441113207832576","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Ralia       |09:52:06 | 22-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Ralia       |09:52:14 | 22-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
-[1]Ralia       |09:52:22 | 22-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ralia       |09:42:00 | 23-10-2026| news: 27/27 artikel selesai dibaca
+[1]Ralia       |09:42:01 | 23-10-2026| mint eligibility: {"userId":"1715441113207832576","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Ralia       |09:42:07 | 23-10-2026| news road-to-mint-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ralia       |09:42:15 | 23-10-2026| news community-first-update-2026-10: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
+[1]Ralia       |09:42:23 | 23-10-2026| news oshi-nft-price-and-basic-income-01: complete GAGAL http=404 resp={"error":"記事が見つかりません。"}
 --> [1]Ralia menjalankan: Quiz Anime
-[1]Ralia       |09:52:25 | 22-10-2026| quiz ep1: sudah dijawab
-[1]Ralia       |09:52:25 | 22-10-2026| quiz ep2: sudah dijawab
-[1]Ralia       |09:52:25 | 22-10-2026| quiz ep3: sudah dijawab
-[1]Ralia       |09:52:25 | 22-10-2026| quiz ep4: sudah dijawab
-[1]Ralia       |09:52:25 | 22-10-2026| quiz ep5: sudah dijawab
-[1]Ralia       |09:52:25 | 22-10-2026| quiz ep6: sudah dijawab
+[1]Ralia       |09:42:26 | 23-10-2026| quiz ep1: sudah dijawab
+[1]Ralia       |09:42:26 | 23-10-2026| quiz ep2: sudah dijawab
+[1]Ralia       |09:42:26 | 23-10-2026| quiz ep3: sudah dijawab
+[1]Ralia       |09:42:26 | 23-10-2026| quiz ep4: sudah dijawab
+[1]Ralia       |09:42:26 | 23-10-2026| quiz ep5: sudah dijawab
+[1]Ralia       |09:42:26 | 23-10-2026| quiz ep6: sudah dijawab
 --> [1]Ralia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ralia       |09:52:27 | 22-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ralia       |09:52:27 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Ralia       |09:52:27 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ralia       |09:52:27 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ralia       |09:42:28 | 23-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ralia       |09:42:28 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Ralia       |09:42:28 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ralia       |09:42:28 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ralia menjalankan: Claim Missions
-[1]Ralia       |09:52:27 | 22-10-2026| mission music-listens-10: sudah diklaim
-[1]Ralia       |09:52:27 | 22-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ralia       |09:52:27 | 22-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ralia       |09:42:29 | 23-10-2026| mission music-listens-10: sudah diklaim
+[1]Ralia       |09:42:29 | 23-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ralia       |09:42:29 | 23-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ralia menjalankan: Check Eligibility
 
 --- eligibility [1]Ralia ---
-  @raliasilviani | score=1650 rank=4397
-  tasks    [#################---] 73/86
+  @raliasilviani | score=1790 rank=4123
+  tasks    [##############------] 15/22
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -133,14 +71,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ralia menjalankan: Read Manga
-[1]Ralia       |09:52:31 | 22-10-2026| manga: 0/13 chapter belum completed
+[1]Ralia       |09:42:33 | 23-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ralia menjalankan: Get Gift
-[1]Ralia       |09:52:31 | 22-10-2026| gift: 0/4 belum diterima
+[1]Ralia       |09:42:34 | 23-10-2026| gift: 0/4 belum diterima
 --> [1]Ralia menjalankan: Setup Profile
-[1]Ralia       |09:52:32 | 22-10-2026| profile: bio="https://x.com/raliasilviani" fav=amato rewardAt=1791686864
-[1]Ralia       |09:52:32 | 22-10-2026| profile: bonus sudah diklaim, skip
+[1]Ralia       |09:42:34 | 23-10-2026| profile: bio="https://x.com/raliasilviani" fav=amato rewardAt=1791686864
+[1]Ralia       |09:42:34 | 23-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ralia menjalankan: Bind Wallet
-[1]Ralia       |09:52:32 | 22-10-2026| wallet: sudah terikat 9kAETxDUqx... (solana)
+[1]Ralia       |09:42:36 | 23-10-2026| wallet: sudah terikat 9kAETxDUqx... (solana)
 
 == RINGKASAN ==
-- Ralia: daily=claimed | tasks OK 14/14 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 2/2 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
+- Ralia: daily=claimed | tasks OK 8/8 | misi klaim 0 (+0pt) | kuis benar 6 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
