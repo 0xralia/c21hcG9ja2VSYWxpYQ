@@ -12,49 +12,49 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
 
 
 ===== [1/1] Ralia =====
-[1]Ralia       |08:26:14 | 26-10-2026| login OK @raliasilviani | score=2110 rank=3667
-[1]Ralia       |08:26:14 | 26-10-2026| serverTime=2026-10-26T08:26:14.000Z local=2026-10-26T08:26:14.796Z
+[1]Ralia       |08:35:12 | 27-10-2026| login OK @raliasilviani | score=2200 rank=3524
+[1]Ralia       |08:35:12 | 27-10-2026| serverTime=2026-10-27T08:35:12.000Z local=2026-10-27T08:35:12.391Z
 --> [1]Ralia menjalankan: Claim Daily
-[1]Ralia       |08:26:15 | 26-10-2026| daily: OK +10 poin score=2120
+[1]Ralia       |08:35:13 | 27-10-2026| daily: OK +10 poin score=2210
 --> [1]Ralia menjalankan: Auto All Tasks (8 pending)
-[1]Ralia       |08:26:17 | 26-10-2026| [1/8] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634296812716688
-[1]Ralia       |08:26:17 | 26-10-2026| delay 10s...
-[1]Ralia       |08:26:29 | 26-10-2026| [2/8] 1db0caec (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634174453768118
-[1]Ralia       |08:26:29 | 26-10-2026| delay 10s...
-[1]Ralia       |08:26:41 | 26-10-2026| [3/8] 494e1b1b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634362785516068
-[1]Ralia       |08:26:41 | 26-10-2026| delay 10s...
-[1]Ralia       |08:26:53 | 26-10-2026| [4/8] 9b683957 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634350704252208
-[1]Ralia       |08:26:53 | 26-10-2026| delay 10s...
-[1]Ralia       |08:27:05 | 26-10-2026| [5/8] 4262aa80 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634531352543140
-[1]Ralia       |08:27:05 | 26-10-2026| delay 10s...
-[1]Ralia       |08:27:17 | 26-10-2026| [6/8] ed948baf (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634518384189069
-[1]Ralia       |08:27:17 | 26-10-2026| delay 10s...
-[1]Ralia       |08:27:29 | 26-10-2026| [7/8] d23e8d85 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634384965867859
-[1]Ralia       |08:27:29 | 26-10-2026| delay 10s...
-[1]Ralia       |08:27:41 | 26-10-2026| [8/8] 33550c8b (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211454384355538 | proof=https://x.com/raliasilviani/status/2114634543946283169
-[1]Ralia       |08:27:41 | 26-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
-[1]Ralia       |08:27:43 | 26-10-2026| [1/1] 30fecda0 (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"30fecda0-0ac1-4013-b0be-7c5521c667ba","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114543843555385 | proof=https://x.com/raliasilviani/status/2114634699354847302
+[1]Ralia       |08:35:14 | 27-10-2026| [1/8] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/raliasilviani/status/2114998747438791689
+[1]Ralia       |08:35:14 | 27-10-2026| delay 10s...
+[1]Ralia       |08:35:27 | 27-10-2026| [2/8] 0c0c4157 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/raliasilviani/status/2114998914123079929
+[1]Ralia       |08:35:27 | 27-10-2026| delay 10s...
+[1]Ralia       |08:35:38 | 27-10-2026| [3/8] affba66c (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/raliasilviani/status/2114999187259798039
+[1]Ralia       |08:35:38 | 27-10-2026| delay 10s...
+[1]Ralia       |08:35:50 | 27-10-2026| [4/8] 3a506cad (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/raliasilviani/status/2114999075990158564
+[1]Ralia       |08:35:50 | 27-10-2026| delay 10s...
+[1]Ralia       |08:36:02 | 27-10-2026| [5/8] dac9c018 (link) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796
+[1]Ralia       |08:36:02 | 27-10-2026| delay 10s...
+[1]Ralia       |08:36:14 | 27-10-2026| [6/8] 9edbb28a (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/raliasilviani/status/2114999315762119712
+[1]Ralia       |08:36:14 | 27-10-2026| delay 10s...
+[1]Ralia       |08:36:25 | 27-10-2026| [7/8] 6c6d6f6f (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/raliasilviani/status/2114999281000395782
+[1]Ralia       |08:36:25 | 27-10-2026| delay 10s...
+[1]Ralia       |08:36:37 | 27-10-2026| [8/8] f12f3018 (reply) verify OK http=200 resp={"ok":true,"already":false,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"211496279047796 | proof=https://x.com/raliasilviani/status/2114999115463258939
+[1]Ralia       |08:36:37 | 27-10-2026| mode auto: verify 1 task pertama (pakai --limit N untuk atur, atau jalan interaktif untuk pilih).
+[1]Ralia       |08:36:38 | 27-10-2026| [1/1] 569b202e (reply) verify OK http=200 resp={"ok":true,"already":true,"points":10,"taskState":{"tasks":[{"id":"569b202e-998d-4037-bb2d-c1eebe3d96fd","task_type":"reply","work_id":"","episode_id":"","title":"コメント","description":"","target_post_id":"2114962790477967 | proof=https://x.com/raliasilviani/status/2114999424086848899
 --> [1]Ralia menjalankan: Watch Anime
-[1]Ralia       |08:27:44 | 26-10-2026| watch: semua video sudah completed
+[1]Ralia       |08:36:39 | 27-10-2026| watch: semua video sudah completed
 --> [1]Ralia menjalankan: Read Article
-[1]Ralia       |08:27:46 | 26-10-2026| news: 30/30 artikel selesai dibaca
-[1]Ralia       |08:27:46 | 26-10-2026| mint eligibility: {"userId":"1715441113207832576","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
-[1]Ralia       |08:27:46 | 26-10-2026| news: semua artikel sudah dibaca
+[1]Ralia       |08:36:40 | 27-10-2026| news: 30/30 artikel selesai dibaca
+[1]Ralia       |08:36:41 | 27-10-2026| mint eligibility: {"userId":"1715441113207832576","wallet":{"state":"registered","ready":true},"youtube":{"url":"","status":"unsubmitted","revision":"","submittedAt":null,"reviewedAt":null,"note":"","checkedAt":null,"a
+[1]Ralia       |08:36:41 | 27-10-2026| news: semua artikel sudah dibaca
 --> [1]Ralia menjalankan: Quiz Anime
 --> [1]Ralia menjalankan: Music Missions (realtime, bisa lama!)
-[1]Ralia       |08:27:49 | 26-10-2026| music: kedua misi sudah tercapai, stop
-[1]Ralia       |08:27:50 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Ralia       |08:27:50 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ralia       |08:27:50 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ralia       |08:36:43 | 27-10-2026| music: kedua misi sudah tercapai, stop
+[1]Ralia       |08:36:43 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Ralia       |08:36:43 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ralia       |08:36:43 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ralia menjalankan: Claim Missions
-[1]Ralia       |08:27:50 | 26-10-2026| mission music-listens-10: sudah diklaim
-[1]Ralia       |08:27:50 | 26-10-2026| mission music-minutes-30: sudah diklaim
-[1]Ralia       |08:27:50 | 26-10-2026| mission anime-completed-3: sudah diklaim
+[1]Ralia       |08:36:44 | 27-10-2026| mission music-listens-10: sudah diklaim
+[1]Ralia       |08:36:44 | 27-10-2026| mission music-minutes-30: sudah diklaim
+[1]Ralia       |08:36:44 | 27-10-2026| mission anime-completed-3: sudah diklaim
 --> [1]Ralia menjalankan: Check Eligibility
 
 --- eligibility [1]Ralia ---
-  @raliasilviani | score=2110 rank=3667
-  tasks    [--------------------] 0/8
+  @raliasilviani | score=2200 rank=3524
+  tasks    [#########-----------] 7/15
   mission  music-listens-10:      claimed
   mission  music-minutes-30:      claimed
   mission  anime-completed-3:     claimed
@@ -65,14 +65,14 @@ mode AUTO: akun=1 menu=Claim Daily, Auto All Tasks, Verify Single Task, Watch An
   mint: requirementsMet=false mintOpen=false discord=true
 
 --> [1]Ralia menjalankan: Read Manga
-[1]Ralia       |08:27:54 | 26-10-2026| manga: 0/13 chapter belum completed
+[1]Ralia       |08:36:47 | 27-10-2026| manga: 0/13 chapter belum completed
 --> [1]Ralia menjalankan: Get Gift
-[1]Ralia       |08:27:55 | 26-10-2026| gift: 0/4 belum diterima
+[1]Ralia       |08:36:47 | 27-10-2026| gift: 0/4 belum diterima
 --> [1]Ralia menjalankan: Setup Profile
-[1]Ralia       |08:27:56 | 26-10-2026| profile: bio="https://x.com/raliasilviani" fav=amato rewardAt=1791686864
-[1]Ralia       |08:27:56 | 26-10-2026| profile: bonus sudah diklaim, skip
+[1]Ralia       |08:36:48 | 27-10-2026| profile: bio="https://x.com/raliasilviani" fav=amato rewardAt=1791686864
+[1]Ralia       |08:36:48 | 27-10-2026| profile: bonus sudah diklaim, skip
 --> [1]Ralia menjalankan: Bind Wallet
-[1]Ralia       |08:27:57 | 26-10-2026| wallet: sudah terikat 9kAETxDUqx... (solana)
+[1]Ralia       |08:36:48 | 27-10-2026| wallet: sudah terikat 9kAETxDUqx... (solana)
 
 == RINGKASAN ==
 - Ralia: daily=claimed | tasks OK 9/9 | misi klaim 0 (+0pt) | kuis benar 0 (+0pt) | watch 0/0 completed | musik 0 trek ~0s | artikel 0 dibaca | manga 0/13 completed | gift 0/4 diterima | profile - | wallet bound | mint req=false open=false
